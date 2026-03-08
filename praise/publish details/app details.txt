@@ -1,0 +1,46 @@
+App Name : Praises
+
+Short Description : Top Praise App - Best New Praises App 2023
+
+Long Description : No 1 gospel app for your latest praises. The best app to get all Praise  for your Upliftment. This is an app for every home. Get your spirit refreshed and mind renewed with the best from Indian Praises.
+
+
+
+Praises App
+
+
+com.jesuschilds.praise
+
+www.jesuschilds.online
+
+jesuschilds2022@gmail.com
+
+
+ keytool -genkey -v -keystore D:\CodeBase\WORKOUTS\bibleapp\praise\android\app\praise.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 100000 -alias praise
+ 
+Password:  Jesus@2023
+ 
+First Last Name :  Sabarinathan Sakthivel
+ 
+Organizational Unit :  IT
+
+Organizational Name : Jesus Childs
+
+City or Locality : Tirupattur
+
+State or Provience : TamilNadu
+
+Country Code : IN
+ 
+ 
+
+
+
+
+Top Praise App - Best New Praises App 2023
+
+No 1 gospel app for your latest praise and worship music.The best app to get all Praise and Worship Songs for your Upliftment. This is an app for every home. Get your spirit refreshed and mind renewed with the best from Nigerian Praise and Worship artistes.
+
+Free online music radio stations, great for streaming songs to vibe.
+This is your App for the TOP FREE online praise and worship radio stations from US and around the world.
+Listen to top Praise and Worship from across the USA and around the world on your device.
